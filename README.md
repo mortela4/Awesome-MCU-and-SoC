@@ -17,6 +17,7 @@ Table of content
     - [STM32F7](#stm32f7)
     - [STM8](#stm8)
     - [ESP8266](#esp8266)
+    - [WCH32](#WCH)
   - [Raspberry](#raspberry)
   - [Beaglebone](#beaglebone)
   - [Linux Kernel and device driver development](#linux-kernel-and-device-driver-development)
@@ -154,13 +155,17 @@ Table of content
 * [Wolk STM8 stuff ](https://github.com/LonelyWolf/stm8)
 * [STM8S001J3_tiny_board](https://github.com/HexRx/STM8S001J3_tiny_board) - A tiny dev board for STM8S001J3 MCU designed in KiCad.
 
-### ESP8266
+### ESP8266 and ESP32
 
 * [An open source bootloader for the ESP8266](https://github.com/raburton/rboot)
 * [An esp8266 rom creation tool](https://github.com/raburton/esptool2)
 * [Wi-FI ESP8266 learning journey](https://github.com/xuhongv/StudyInEsp8266)
 * [Wi-FI ESP32 learning journey](https://github.com/xuhongv/StudyInEsp32)
 * [Sming - ESP8266/ESP32 IoT Framework](https://github.com/SmingHub/Sming)
+
+### WCH (CH32H/X families and more)
+
+* [SoCXin](https://github.com/SoCXin) - lots of drivers and examples for CH32X and CH32H MCUs
 
 
 ## Raspberry
