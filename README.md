@@ -166,6 +166,9 @@ Table of content
 * [Sming - ESP8266/ESP32 IoT Framework](https://github.com/SmingHub/Sming)
 * [TotemMaker](https://github.com/totemmaker) - ESP32-Arduino/PlatformIO fork (see also: 'pioarduino')
 
+#### ESP32-tools
+* [ThistleTech](https://github.com/thistletech) - loads of different ESP32-related tools, e.g. 'one-click' cloud-signing of firmware for 'secured boot'.
+
 
 ### WCH (CH32H/X families and more)
 
