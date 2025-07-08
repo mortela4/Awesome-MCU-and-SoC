@@ -18,6 +18,7 @@ Table of content
     - [STM8](#stm8)
     - [ESP32](#esp32)
     - [WCH32](#WCH)
+    - [NXP](#NXP)
   - [Raspberry](#raspberry)
   - [Beaglebone](#beaglebone)
   - [Linux Kernel and device driver development](#linux-kernel-and-device-driver-development)
@@ -173,6 +174,18 @@ Table of content
 ### WCH (CH32H/X families and more)
 
 * [SoCXin](https://github.com/SoCXin) - lots of drivers and examples for CH32X and CH32H MCUs
+
+
+### NXP
+
+#### iMX.RT
+NXP's 'iMX.RT' family hi-end MCUs.
+
+* [Rust-lib for iMXRT](https://github.com/imxrt-rs)
+
+#### MCX
+NXP's 'MCX' family low- to mid-end MCUs.
+
 
 
 ## Raspberry
