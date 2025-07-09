@@ -30,9 +30,11 @@ Table of content
   - [Compiler](#compiler)
   - [Bootloader](#bootloader)
   - [Makefile](#makefile)
-  - [Peripheral](#peripheral)
+  - [MCU Peripherals](#peripheral)
     - [Memory Protection Unit](#memory-protection-unit)
     - [USB](#usb)
+  - [External Peripherals](#extern_periph_and_interfaces)
+    - [ModBus](#modbus)
   - [Others](#others)
   - [Embedded GUI Development](#embedded-gui-development)
   - [Machine Learning & AI on MCU](#machine-learning--ai-on-mcu)
@@ -368,12 +370,21 @@ NXP's 'MCX' family low- to mid-end MCUs.
 * [Managing projects with GNU Make](http://uploads.mitechie.com/books/Managing_Projects_with_GNU_Make_Third_Edition.pdf)
 * [GCC and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
 
-## Peripheral
+
+## MCU Peripherals
 
 ### Memory Protection Unit
 
 * [Building Hardware Components for Memory Protection of Applications on a Tiny Processor](https://carrv.github.io/2017/papers/oh-mpu-carrv2017.pdf)
 * [KeyStone Architecture: Memory Protection Unit (MPU)](http://www.ti.com/lit/ug/sprugw5a/sprugw5a.pdf)
+
+
+## External Peripherals
+
+### ModBus
+
+* [Inacks](https://github.com/inacks) - ModBus slave/master controllers (RS485 and Ethernet) w. I2C or SPI interface to MCU
+
 
 ### USB
 
