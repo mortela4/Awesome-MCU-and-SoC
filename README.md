@@ -9,7 +9,7 @@ Table of content
   - [Embedded Software Skill](#embedded-software-skill)
   - [Common](#common)
   - [MCU programming](#mcu-programming)
-    - [Bare-metal programming (Don't need MCU)](#bare-metal-programming-dont-need-mcu)
+    - [Bare-metal programming (No specific MCU)](#bare-metal-programming-dont-need-mcu)
     - [MSP430](#msp430)
     - [TM4C123](#tm4c123)
     - [MSP432](#msp432)
