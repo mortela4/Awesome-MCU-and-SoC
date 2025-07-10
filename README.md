@@ -180,10 +180,13 @@ Table of content
 
 ### NXP
 
+* [NXP GitHub repositories](https://www.nxp.com/design/design-center/software/embedded-software/nxp-github:NXP-GITHUB) - Total overview of all NXP's GitHub-repositories
+
+
 #### MCUXpresso IDE, SDK and associated Code Examples
 
 * [MCUXpresso SDK Freedom-board examples](https://github.com/nxp-mcuxpresso/mcux-sdk-examples)
-* [MCUXpresso SDK generic code examples]
+* [MCUXpresso SDK generic code examples](https://github.com/nxp-mcuxpresso/mcuxsdk-examples)
 
 
 #### iMX.RT
