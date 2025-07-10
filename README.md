@@ -169,6 +169,10 @@ Table of content
 * [Sming - ESP8266/ESP32 IoT Framework](https://github.com/SmingHub/Sming)
 * [TotemMaker](https://github.com/totemmaker) - ESP32-Arduino/PlatformIO fork (see also: 'pioarduino')
 
+#### ESP32-Arduino
+
+* [ESP32-Arduino LibBuilder](https://docs.espressif.com/projects/arduino-esp32/en/latest/lib_builder.html) - buildsystem for static ESP32-Arduino libraries, incl. Docker-image for CI/CD autobuild.
+
 #### ESP32-tools
 * [ThistleTech](https://github.com/thistletech) - loads of different ESP32-related tools, e.g. 'one-click' cloud-signing of firmware for 'secured boot'.
 
