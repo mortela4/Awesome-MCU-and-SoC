@@ -180,6 +180,12 @@ Table of content
 
 ### NXP
 
+#### MCUXpresso IDE, SDK and associated Code Examples
+
+* [MCUXpresso SDK Freedom-board examples](https://github.com/nxp-mcuxpresso/mcux-sdk-examples)
+* [MCUXpresso SDK generic code examples]
+
+
 #### iMX.RT
 NXP's 'iMX.RT' family hi-end MCUs.
 
