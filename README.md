@@ -441,7 +441,7 @@ NXP's 'MCX' family low- to mid-end MCUs.
 * [kann](https://github.com/attractivechaos/kann) - A lightweight C library for artificial neural networks.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool which allows to transpile trained classic ML models into a native code of various programming languages with zero dependencies including C.
 
-## Utilities
+## SW Utilities
 
 * [lm4tools](https://github.com/utzig/lm4tools)
 * [mspdebug](https://github.com/dlbeer/mspdebug) - Debugging tool for MSP430 MCUs
