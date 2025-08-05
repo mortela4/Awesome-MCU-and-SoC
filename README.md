@@ -459,6 +459,8 @@ NXP's 'MCX' family low- to mid-end MCUs.
 
 * [Vim Config for Reading Linux Kernel Source Code](https://github.com/mintisan/oh-my-vim)
 * [GNU GDB Debugger Command Cheat Sheet](http://www.yolinux.com/TUTORIALS/GDB-Commands.html)
+* [I2C Debug](https://github.com/aodonnell-ca) - practical debugging of I2C-bus errors, and explanation of (rare) errors sometimes seen.
+
 
 # Tech blogs
 
