@@ -169,6 +169,7 @@ Table of content
 * [Wi-FI ESP32 learning journey](https://github.com/xuhongv/StudyInEsp32)
 * [Sming - ESP8266/ESP32 IoT Framework](https://github.com/SmingHub/Sming)
 * [TotemMaker](https://github.com/totemmaker) - ESP32-Arduino/PlatformIO fork (see also: 'pioarduino')
+* [SecurityEnablementWorkflow](https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/security/security-features-enablement-workflows.html) - enable Flash encryption, SecureBoot etc. on ESP32S3.
 
 #### ESP32-Arduino
 
