@@ -8,6 +8,7 @@ Table of content
   - [Interview](#interview)
   - [Embedded Software Skill](#embedded-software-skill)
   - [Common](#common)
+  - [CPU Architectures](#cpu-architectures)
   - [MCU programming](#mcu-programming)
     - [Bare-metal programming (No specific MCU)](#bare-metal-programming-dont-need-mcu)
     - [MSP430](#msp430)
@@ -76,6 +77,13 @@ Table of content
 * [How to convert from an armlink scatter file to a GNU ld linker script](https://www.mayrhofer.eu.org/node/24)
 * [Using the GNU Linker](https://www.math.utah.edu/docs/info/ld_3.html)
 * [Modern Embedded Systems Programming Course](https://github.com/QuantumLeaps/modern-embedded-programming-course) - Learn from the basics to modern embedded programming practice.
+
+
+## CPU Architecture
+
+* [Libre-CHIP](https://libre-chip.org/) - security-focused EU initiative for a multi-arch-emulating(x86, RISC-V, ARM/Cortex-M/R/A, etc.) royalty-free CPU core.
+* [Libre-SOC](https://libre-soc.org/) - opensource RISC-V based CPU, but with 3D GPU an lotsa peripherals too!
+
 
 ## MCU programming
 
