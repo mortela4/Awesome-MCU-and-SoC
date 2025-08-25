@@ -186,6 +186,9 @@ Table of content
 #### ESP32-tools
 * [ThistleTech](https://github.com/thistletech) - loads of different ESP32-related tools, e.g. 'one-click' cloud-signing of firmware for 'secured boot'.
 
+#### ESP32-libs
+* [AutoConnect](https://github.com/Hieromon/AutoConnect) - WiFi auto-connect.
+
 
 ### WCH (CH32H/X families and more)
 
