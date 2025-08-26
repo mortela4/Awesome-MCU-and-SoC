@@ -188,6 +188,7 @@ Table of content
 
 #### ESP32-libs
 * [AutoConnect](https://github.com/Hieromon/AutoConnect) - WiFi auto-connect.
+* [Micro-ECC](https://github.com/kmackay/micro-ecc) - ECDH and ECDSA key-based encryption/decryption.
 
 
 ### WCH (CH32H/X families and more)
