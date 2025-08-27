@@ -22,6 +22,9 @@ Table of content
     - [NXP](#NXP)
   - [Raspberry](#raspberry)
   - [Beaglebone](#beaglebone)
+  - [Arduino](#arduino)
+    - [Arduino-Libs](#arduino-libs)
+    - [Arduino-tutorials](#arduino-tutorials)
   - [Linux Kernel and device driver development](#linux-kernel-and-device-driver-development)
   - [Assembly](#assembly)
   - [RTOS](#rtos)
@@ -280,6 +283,27 @@ NXP's 'MCX' family low- to mid-end MCUs.
 * [BeagleBoardJTAG](https://elinux.org/BeagleBoardJTAG)
 * [beaglebone_samples](https://github.com/dwelch67/beaglebone_samples)
 * [FreeRTOS for BeagleBone Black](https://github.com/henfos/BBBFreeRTOS)
+
+
+## Arduino
+
+### Arduino-Libs
+
+#### Authentication
+* [Google Cloud IoT](https://github.com/GoogleCloudPlatform/google-cloud-iot-arduino) - Old (and arcived) JWT-generate/verify library. See usage at: [PlatformIO libs](https://registry.platformio.org/libraries/googlecloudplatform/Google%20Cloud%20IoT%20Core%20JWT)
+* [JWT_RS256](https://github.com/lucas-sesti/JWT_RS256) - verification of JWTs assuming use of RS-256 encryption.
+* [ArduinoJWT](https://github.com/chrismoorhouse/ArduinoJWT) - rather old library (>8yrs), w. fixed use of HS-256 algorithm for encode/decode.
+* [CustomJWT](https://github.com/Ant2000/CustomJWT) - Encode/decode of JWTs. The most recent and flexible JWT-library for Arduino! (it seems ...)
+
+#### Encryption/Decryption
+* [ESP32-Encrypt](https://github.com/josephpal/esp32-Encrypt) - AES-128 encryption in ECB mode.
+
+#### WiFi
+* [WiFi Manager](https://github.com/tzapu/WiFiManager) - use ESP32 as accesspoint for setting up network credentials and parameters. **NOTE**: Espressif has internal-supported libs for same purpose!
+
+
+### Arduino-Tutorials
+
 
 ## Linux kernel and device driver development
 
