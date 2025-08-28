@@ -294,6 +294,7 @@ NXP's 'MCX' family low- to mid-end MCUs.
 * [JWT_RS256](https://github.com/lucas-sesti/JWT_RS256) - verification of JWTs assuming use of RS-256 encryption.
 * [ArduinoJWT](https://github.com/chrismoorhouse/ArduinoJWT) - rather old library (>8yrs), w. fixed use of HS-256 algorithm for encode/decode.
 * [CustomJWT](https://github.com/Ant2000/CustomJWT) - Encode/decode of JWTs. The most recent and flexible JWT-library for Arduino! (it seems ...)
+* [OAuth](https://github.com/mobizt/ESP-Signer) - 'OAuth' sign-on using Google Cloud (GCP). **NOTE**: "Google Cloud IoT" services are no longer operating!
 
 #### Encryption/Decryption
 * [ESP32-Encrypt](https://github.com/josephpal/esp32-Encrypt) - AES-128 encryption in ECB mode.
