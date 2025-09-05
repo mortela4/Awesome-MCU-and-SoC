@@ -20,6 +20,7 @@ Table of content
     - [ESP32](#esp32)
     - [WCH32](#WCH)
     - [NXP](#NXP)
+    - [QualComm](#qualcomm)
   - [Raspberry](#raspberry)
   - [Beaglebone](#beaglebone)
   - [Arduino](#arduino)
@@ -205,7 +206,6 @@ Table of content
 
 * [NXP GitHub repositories](https://www.nxp.com/design/design-center/software/embedded-software/nxp-github:NXP-GITHUB) - Total overview of all NXP's GitHub-repositories
 
-
 #### MCUXpresso IDE, SDK and associated Code Examples
 
 * [MCUXpresso SDK Freedom-board examples](https://github.com/nxp-mcuxpresso/mcux-sdk-examples)
@@ -220,6 +220,12 @@ NXP's 'iMX.RT' family hi-end MCUs.
 #### MCX
 NXP's 'MCX' family low- to mid-end MCUs.
 
+### QualComm
+QualComm has some very interesting wireless MCUs using Cortex-M33 core, with sophisticated, ultra-lowpower WiFi and Bluetooth capabilities.
+Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realtek(RTL8x(x) MCUs).
+
+* [QCC74x MCUs](https://www.qualcomm.com/products/technology/wi-fi/qcc74xm) - "QCC74xM" sub-family MCUs w. both WiFi6 and BLE5.4 (incl. Auracast-audio on some).
+* [QCC7xx SDK](https://git.codelinaro.org/clo/qcc7xx) - SDKs covering both QCC73x and QCC74x sub-families.
 
 
 ## Raspberry
@@ -411,6 +417,10 @@ NXP's 'MCX' family low- to mid-end MCUs.
 * [LwMalloc](https://github.com/taehyeon-masu/lwmalloc) - "Lightweight-Malloc", 'malloc()'/'calloc()'/'free()' etc. GlibC-replacement for resource-constrained systems.
 
 ### Libraries
+
+#### ESP32-specific
+* [ESP-Nimble-C++](https://github.com/esp-cpp/esp-nimble-cpp)
+
 
 
 ## Bootloader
