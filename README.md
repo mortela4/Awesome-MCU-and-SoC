@@ -185,8 +185,10 @@ Table of content
 * [TotemMaker](https://github.com/totemmaker) - ESP32-Arduino/PlatformIO fork (see also: 'pioarduino')
 * [SecurityEnablementWorkflow](https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/security/security-features-enablement-workflows.html) - enable Flash encryption, SecureBoot etc. on ESP32S3.
 
-#### ESP32-Arduino
+#### ESP32-Tutorials
+* [RandomNerdTutorials](https://randomnerdtutorials.com/) - massive collection of ESP32-tuts using Arduino.
 
+#### ESP32-Arduino
 * [ESP32-Arduino LibBuilder](https://docs.espressif.com/projects/arduino-esp32/en/latest/lib_builder.html) - buildsystem for static ESP32-Arduino libraries, incl. Docker-image for CI/CD autobuild.
 
 #### ESP32-tools
