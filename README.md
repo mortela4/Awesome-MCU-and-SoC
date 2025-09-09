@@ -38,17 +38,17 @@ Table of content
     - [Libraries](#libraries)
     - [Debug](#debug)
   - [Bootloader](#bootloader)
-
   - [MCU Peripherals](#peripheral)
     - [Memory Protection Unit](#memory-protection-unit)
     - [USB](#usb)
   - [External Peripherals](#extern_periph_and_interfaces)
+    - [CANbus](#canbus) 
     - [ModBus](#modbus)
   - [Others](#others)
   - [Embedded GUI Development](#embedded-gui-development)
   - [Machine Learning & AI on MCU](#machine-learning--ai-on-mcu)
   - [Rust](#rust)
-    - [Rust Libraries for Embedded/MCU)(#rust-libs)
+    - [Rust Libraries for Embedded/MCU](#rust-libs)
   - [SW Utilities](#utilities)
   - [HW Tools](#hwtools)
   - [Tips & tricks](#tips--tricks)
@@ -513,7 +513,7 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 ## Rust
 
 ### Rust Libraries
-* [Iced-RS](https://iced-rs/iced) - GUI library for MCUs in Rust.
+* [Iced-RS](https://github.com/iced-rs/iced) - GUI library also for MCUs/bare-metal in Rust.
 
 
 ## SW Utilities
