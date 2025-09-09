@@ -35,6 +35,7 @@ Table of content
   - [Devtools](#devtools)
     - [Compiler](#compiler)
     - [Libraries](#libraries)
+    - [Debug](#debug)
   - [Bootloader](#bootloader)
   - [Makefile](#makefile)
   - [MCU Peripherals](#peripheral)
@@ -414,11 +415,13 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 ## Devtools
 
 ### Compiler
-
 * [ARM Compiler - armasm User Guide](https://static.docs.arm.com/dui0801/i/DUI0801I_armasm_user_guide.pdf)
 * [LwMalloc](https://github.com/taehyeon-masu/lwmalloc) - "Lightweight-Malloc", 'malloc()'/'calloc()'/'free()' etc. GlibC-replacement for resource-constrained systems.
 
 ### Libraries
+
+### Debug
+* [Metal.GDB](https://github.com/metal-ci/test) - Python GDB bindings for very low-level (unit-)testing (e.g. on 'bare-metal' system, or - at register-level).
 
 #### ESP32-specific
 * [ESP-Nimble-C++](https://github.com/esp-cpp/esp-nimble-cpp)
