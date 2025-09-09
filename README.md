@@ -34,10 +34,11 @@ Table of content
   - [WindowCE](#windowce)
   - [Devtools](#devtools)
     - [Compiler](#compiler)
+    - [Makefile](#makefile)
     - [Libraries](#libraries)
     - [Debug](#debug)
   - [Bootloader](#bootloader)
-  - [Makefile](#makefile)
+
   - [MCU Peripherals](#peripheral)
     - [Memory Protection Unit](#memory-protection-unit)
     - [USB](#usb)
@@ -46,6 +47,8 @@ Table of content
   - [Others](#others)
   - [Embedded GUI Development](#embedded-gui-development)
   - [Machine Learning & AI on MCU](#machine-learning--ai-on-mcu)
+  - [Rust](#rust)
+    - [Rust Libraries for Embedded/MCU)(#rust-libs)
   - [SW Utilities](#utilities)
   - [HW Tools](#hwtools)
   - [Tips & tricks](#tips--tricks)
@@ -418,6 +421,10 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 * [ARM Compiler - armasm User Guide](https://static.docs.arm.com/dui0801/i/DUI0801I_armasm_user_guide.pdf)
 * [LwMalloc](https://github.com/taehyeon-masu/lwmalloc) - "Lightweight-Malloc", 'malloc()'/'calloc()'/'free()' etc. GlibC-replacement for resource-constrained systems.
 
+### Makefile
+* [Managing projects with GNU Make](http://uploads.mitechie.com/books/Managing_Projects_with_GNU_Make_Third_Edition.pdf)
+* [GCC and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
+
 ### Libraries
 
 ### Debug
@@ -441,10 +448,7 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 * Understand boot process: [link1](https://www.beningo.com/understanding-the-microcontroller-boot-process/), [link2](https://www.beningo.com/understanding-the-microcontroller-boot-process/), [link3](https://www.eevblog.com/forum/microcontrollers/copy-data-from-rom-to-ram-and-execute/)
 * Keywords: *hello world bootloader*, *writing a bootloader from scratch*, *how to write a bootloader in assembly*, ...
 
-## Makefile
 
-* [Managing projects with GNU Make](http://uploads.mitechie.com/books/Managing_Projects_with_GNU_Make_Third_Edition.pdf)
-* [GCC and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
 
 
 ## MCU Peripherals
@@ -457,14 +461,16 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 
 ## External Peripherals
 
-### ModBus
+### CANbus
+* [CANopenNode](https://github.com/CANopenNode) - **CANopen** client-implementation (i.e. 'node').
 
+### ModBus
 * [Inacks](https://github.com/inacks) - ModBus slave/master controllers (RS485 and Ethernet) w. I2C or SPI interface to MCU
 
 
 ### USB
-
 * [tinyusb](https://github.com/hathach/tinyusb) - An open source USB stack for a variety of Embedded Systems.
+
 
 ## Others
 
@@ -502,6 +508,13 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 * [EmbededAI](https://github.com/boralt/EmbeddedAI) - A library that provides elements of AI to C++ applications.
 * [kann](https://github.com/attractivechaos/kann) - A lightweight C library for artificial neural networks.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool which allows to transpile trained classic ML models into a native code of various programming languages with zero dependencies including C.
+
+
+## Rust
+
+### Rust Libraries
+* [Iced-RS](https://iced-rs/iced) - GUI library for MCUs in Rust.
+
 
 ## SW Utilities
 
