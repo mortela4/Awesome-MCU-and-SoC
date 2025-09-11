@@ -212,6 +212,9 @@ Table of content
 
 * [NXP GitHub repositories](https://www.nxp.com/design/design-center/software/embedded-software/nxp-github:NXP-GITHUB) - Total overview of all NXP's GitHub-repositories
 
+#### NXP-Arduino
+* [iMXRT-ArduinoCore](https://github.com/RoboMaster/ArduinoCore-imxrt) - Fork of Seed Studio's "imxrt-arduino-core" repo.
+
 #### MCUXpresso IDE, SDK and associated Code Examples
 
 * [MCUXpresso SDK Freedom-board examples](https://github.com/nxp-mcuxpresso/mcux-sdk-examples)
