@@ -44,6 +44,10 @@ Table of content
   - [External Peripherals](#extern_periph_and_interfaces)
     - [CANbus](#canbus) 
     - [ModBus](#modbus)
+    - [USB](#usb)
+  - [Wireless](#wireless)
+    - [Bluetooth](#bluetooth)
+    - [WiFi](#wifi) 
   - [Others](#others)
   - [Embedded GUI Development](#embedded-gui-development)
   - [Machine Learning & AI on MCU](#machine-learning--ai-on-mcu)
@@ -473,6 +477,15 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 
 ### USB
 * [tinyusb](https://github.com/hathach/tinyusb) - An open source USB stack for a variety of Embedded Systems.
+
+
+## Wireless
+
+### Bluetooth
+* [BT](https://github.com/bluekitchen/bt) - Deeply embedded dual-mode(BT+BLE) Bluetooth stack.
+
+### WiFi
+
 
 
 ## Others
