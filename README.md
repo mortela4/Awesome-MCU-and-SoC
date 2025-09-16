@@ -482,7 +482,7 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 ## Wireless
 
 ### Bluetooth
-* [BT](https://github.com/bluekitchen/bt) - Deeply embedded dual-mode(BT+BLE) Bluetooth stack.
+* [BTstack](https://github.com/bluekitchen/btstack) - Deeply embedded dual-mode(BT+BLE) Bluetooth stack.
 
 ### WiFi
 
