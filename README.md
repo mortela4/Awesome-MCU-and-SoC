@@ -29,6 +29,8 @@ Table of content
   - [Linux Kernel and device driver development](#linux-kernel-and-device-driver-development)
   - [Assembly](#assembly)
   - [RTOS](#rtos)
+    - [Zephyr](#zephyr-rtos)
+    - [FreeRTOS](#freertos) 
   - [Automotive](#automotive)
   - [OS](#os)
   - [WindowCE](#windowce)
@@ -390,6 +392,11 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 * [µOS++ Reference](http://micro-os-plus.github.io/develop/references/)
 * [TNKernel](http://www.tnkernel.com/index.html) - a compact and very fast real-time kernel for the embedded 32/16/8 bits microprocessors.
 * [Femto OS](http://www.femtoos.org/news.html) - a very concise portable real time - preemptive operating system (RTOS) for embedded microcontrollers with minimal ram and flash, say 2KB .. 16KB flash and 128 .. 1024 bytes ram.
+
+### Zephyr
+* [CarlFriedt, TensTorrent](https://github.com/cfriedt) - Lots of Zephyr-stuff, especially ML on MCUs (Tenstorrent).
+
+ 
 
 ## Automotive
 
