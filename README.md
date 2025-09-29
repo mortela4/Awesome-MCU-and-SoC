@@ -203,6 +203,8 @@ Table of content
 
 #### ESP32-tools
 * [ThistleTech](https://github.com/thistletech) - loads of different ESP32-related tools, e.g. 'one-click' cloud-signing of firmware for 'secured boot'.
+* [PrimeKey](https://doc.primekey.com/signserver/tutorials-and-guides/tutorial-signserver-code-signing-with-esp32) - sign ESP32 firmware using (secure) 'SignServer'.
+
 
 #### ESP32-libs
 * [AutoConnect](https://github.com/Hieromon/AutoConnect) - WiFi auto-connect.
