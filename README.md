@@ -197,6 +197,7 @@ Table of content
 
 #### ESP32-Tutorials
 * [RandomNerdTutorials](https://randomnerdtutorials.com/) - massive collection of ESP32-tuts using Arduino.
+* [ESP32 'SecureBoot' Tutorial](https://github.com/PBearson/ESP32_Secure_Boot_Tutorial) - Basic example project and code.
 
 #### ESP32-Arduino
 * [ESP32-Arduino LibBuilder](https://docs.espressif.com/projects/arduino-esp32/en/latest/lib_builder.html) - buildsystem for static ESP32-Arduino libraries, incl. Docker-image for CI/CD autobuild.
