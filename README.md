@@ -454,6 +454,8 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 #### ESP32-specific
 * [ESP-Nimble-C++](https://github.com/esp-cpp/esp-nimble-cpp)
 
+#### Misc Tools
+* [MemViz](https://github.com/Kobzol/memviz) - Memory visualization tool for C/C++.
 
 
 ## Bootloader
