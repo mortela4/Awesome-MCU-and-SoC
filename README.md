@@ -403,6 +403,7 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 ### Zephyr
 * [CarlFriedt, TensTorrent](https://github.com/cfriedt) - Lots of Zephyr-stuff, especially ML on MCUs (Tenstorrent).
 * [NXP's Zephyr-knowledge Hub](https://community.nxp.com/t5/Zephyr-Project-Knowledge-Base/Zephyr-Knowledge-Hub/ta-p/2008548) - General Zephyr-knowledge mostly, but some focus on MCX and i.MX-RT for Zephyr.
+* [Zephyr Workshop](https://github.com/jonas-rem/zephyr-workshop) - Zephyr on STM32 MCU.
  
 
 ## Automotive
