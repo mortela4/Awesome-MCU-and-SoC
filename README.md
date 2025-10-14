@@ -233,6 +233,11 @@ Table of content
 * [MCUXpresso SDK Freedom-board examples](https://github.com/nxp-mcuxpresso/mcux-sdk-examples)
 * [MCUXpresso SDK generic code examples](https://github.com/nxp-mcuxpresso/mcuxsdk-examples)
 
+#### K32S
+Libraries and SDKs for the automotive S32K family of MCUs from NXP.
+
+* [OpenBSW](https://github.com/eclipse-openbsw/openbsw) - Eclipse "Open Bare-metal SoftWare", automotive-focused SDK with functional safety in focus.
+
 
 #### iMX.RT
 NXP's 'iMX.RT' family hi-end MCUs.
