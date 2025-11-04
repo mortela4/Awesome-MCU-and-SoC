@@ -552,6 +552,8 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 
 ### Rust Libraries
 * [Iced-RS](https://github.com/iced-rs/iced) - GUI library also for MCUs/bare-metal in Rust.
+* [Embassy](https://github.com/embassy-rs) - Rust framework specifically for embedded/MCUs (ESP32, STM32, NXP iMXRT, nRF +++). [Main site](https://embassy.dev).
+* [ESP32-RS eBook](https://github.com/esp-rs/book) - Introduction to Espressif's ESP32-HAL in Rust.
 
 
 ## SW Utilities
