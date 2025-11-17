@@ -499,6 +499,7 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 
 ### USB
 * [tinyusb](https://github.com/hathach/tinyusb) - An open source USB stack for a variety of Embedded Systems.
+* [PDsink](https://github.com/pdsink) - USB 'PowerDelivery' for MCUs.
 
 
 ## Wireless
