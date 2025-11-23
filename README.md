@@ -210,10 +210,15 @@ Table of content
 
 #### uPy-on-ESP32
 * [upyOS](https://github.com/rbenrax/upyOS) - 'POSIX'-layer, or at least 'Linux-like', on ESP32 (also ported to RaspberryPie RP24xx)
+* [GPIOviewer](https://github.com/TuzaaBap/Seeed-Studio-XIAO-ESP32S3-GPIOViewer) - View GPIO-state in (near) real-time via web-interface.
+* [FrameBufTerminal](https://github.com/nmattia/termbuf) - Emulate (OLED-)framebuffer in terminal, to debug uPYframebuf-issues.
+* [ESP32-OTA-dev](https://github.com/TuzaaBap/esp32-ota-dev-testing) - Web-interface for pwdprotected ESP32 FOTA.
+
 
 #### ESP32-libs
 * [AutoConnect](https://github.com/Hieromon/AutoConnect) - WiFi auto-connect.
 * [Micro-ECC](https://github.com/kmackay/micro-ecc) - ECDH and ECDSA key-based encryption/decryption.
+* [Minos-VII](https://gitlab.com/luna-centauri/minos-vii) - SDK that represents a complete 'OS' on ESP32-S3.
 
 
 ### WCH (CH32H/X families and more)
@@ -257,6 +262,7 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 
 ## Raspberry
 
+* [RPiTips](https://raspberrytips.com) - Tutorials on RPi-platforms.
 * [Raspberry Pi Bare Metal](https://github.com/fordp2002/ArmCopro/wiki/Raspberry-Pi-Bare-Metal) & [related link](https://microeletroniki.wordpress.com/)
 * [ChibiOS/RT on the Raspberry Pi](https://www.stevebate.net/chibios-rpi/GettingStarted.html)
 * [Raspberry Pi ARM based bare metal examples](https://github.com/dwelch67/raspberrypi)
@@ -299,6 +305,7 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 * [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux {book}](https://www.wiley.com/en-us/Exploring+Raspberry+Pi%3A+Interfacing+to+the+Real+World+with+Embedded+Linux-p-9781119188681)
 * [Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux {website}](http://exploringrpi.com/)
 * [Writing a "bare metal" operating system for Raspberry Pi 4](https://github.com/babbleberry/rpi4-osdev)
+* [Centauri](https://github.com/TimHanewich/centauri) - Complete Quadcopter SDK. Includes both HW&SW design.
 
 ## Beaglebone
 
