@@ -200,6 +200,8 @@ Table of content
 * [ESP32 'SecureBoot' Tutorial](https://github.com/PBearson/ESP32_Secure_Boot_Tutorial) - Basic example project and code.
 * [ESP32 Security Example](https://github.com/Harshal5/esp-idf-security-example) - Demo project utilizing all security features of recent ESP32 MCUs.
 * [ESP32 Fast-restoration Logic](https://github.com/Harshal5/esp-idf-faster-device-state-restoration-example) - Restore device-state from NVS after boot via custom bootloader logic. See also: [ESP32 blog](https://developer.espressif.com/blog/2025/07/faster-device-restoration/).
+* [KernelHacks](https://kernelhacks.blogspot.com/)
+
 
 #### ESP32-Arduino
 * [ESP32-Arduino LibBuilder](https://docs.espressif.com/projects/arduino-esp32/en/latest/lib_builder.html) - buildsystem for static ESP32-Arduino libraries, incl. Docker-image for CI/CD autobuild.
