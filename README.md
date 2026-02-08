@@ -54,7 +54,7 @@ Table of content
   - [Embedded GUI Development](#embedded-gui-development)
   - [Machine Learning & AI on MCU](#machine-learning-ai-on-mcu)
   - [Rust](#rust)
-  - [SW Utilities](#utilities)
+  - [SW Utilities](#swutilities)
   - [HW Tools](#hwtools)
   - [Programmable Logic](#hdl_and_fpga)
   - [Tips & tricks](#tips_and_tricks)
