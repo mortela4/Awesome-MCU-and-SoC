@@ -58,7 +58,7 @@ Table of content
   - [SW Utilities](#utilities)
   - [HW Tools](#hwtools)
   - [Programmable Logic](#hdl_and_fpga)
-  - [Tips & tricks](#tips--tricks)
+  - [Tips & tricks](#tips_and_tricks)
 - [Tech blogs](#tech-blogs)
   - [FAQ_Embedded](#faqembedded)
   - [Looking for more lists like this?](#looking-for-more-lists-like-this)
@@ -166,7 +166,7 @@ Table of content
 * [stm32f103](https://github.com/trebisky/stm32f103) - Bare metal programming on a generic STM32F103c8 board
 * [stm32_samples](https://github.com/dwelch67/stm32_samples)
 * [stm32f4de example code](https://github.com/dwelch67/stm32f4d)
-* [stm32f4xx with Rust at the HAL](https://apollolabsblog.hashnode.dev/series/stm32f4-embedded-rust-hal) - A series of tutorials for building STM32F4xx applications with Rust.
+* [stm32f4xx with  at the HAL](https://apollolabsblog.hashnode.dev/series/stm32f4-embedded-rust-hal) - A series of tutorials for building STM32F4xx applications with Rust.
 * [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner) - STM32 and nRF24L01+ based 2.4GHz RF scanner
 * [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc) - STM32 based DC-DC converter
 * [rustlink](https://github.com/gemesa/rustlink) - small set of Rust tools to program STM32 devices
