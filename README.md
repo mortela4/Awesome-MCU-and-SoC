@@ -52,9 +52,8 @@ Table of content
     - [WiFi](#wifi) 
   - [Others](#others)
   - [Embedded GUI Development](#embedded-gui-development)
-  - [Machine Learning & AI on MCU](#machine-learning--ai-on-mcu)
+  - [Machine Learning & AI on MCU](#machine-learning-ai-on-mcu)
   - [Rust](#rust)
-    - [Rust Libraries for Embedded](#rust-libs)
   - [SW Utilities](#utilities)
   - [HW Tools](#hwtools)
   - [Programmable Logic](#hdl_and_fpga)
@@ -561,7 +560,7 @@ Especially the QCC7xx family, competing against e.g. ESP32, NordicSemi and Realt
 
 ## Rust
 
-### Rust Libraries
+Rust Libraries for embedded/MCUs:
 * [Iced-RS](https://github.com/iced-rs/iced) - GUI library also for MCUs/bare-metal in Rust.
 * [Embassy](https://github.com/embassy-rs) - Rust framework specifically for embedded/MCUs (ESP32, STM32, NXP iMXRT, nRF +++). [Main site](https://embassy.dev).
 * [ESP32-RS eBook](https://github.com/esp-rs/book) - Introduction to Espressif's ESP32-HAL in Rust.
